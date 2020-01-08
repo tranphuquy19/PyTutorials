@@ -8,3 +8,6 @@ stringA = "Ahihi"
 
 stringA = stringA[:len(stringA)] + ' 12345'[0:4]  # Ahihi 123
 print(stringA)
+
+print(r'trần Phú \nQuy')
+print(' Trần Phú Quy '.center(50, '*'))
